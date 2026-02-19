@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAAAIiIAICIiAiIiIiIiIiIiIiIiIiIiIiIgIiICACIiAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player 1"
+    },
+    "image2": {
+        "data": "hwQIAAgAAAAAiIgAgIiICIiIiIiIiIiIiIiIiIiIiIiAiIgIAIiIAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player 2"
+    },
+    "y69PJ1|8am~;E23[D`nO_img": {
+        "data": "hwQIAAgAAAAAIiIAICIiAiIiIiIiIiIiIiIiIiIiIiIgIiICACIiAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "j)RBNWn5V$rap|)+7_img": {
+        "data": "hwQIAAgAAAAAiIgAgIiICIiIiIiIiIiIiIiIiIiIiIiAiIgIAIiIAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "dot"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
